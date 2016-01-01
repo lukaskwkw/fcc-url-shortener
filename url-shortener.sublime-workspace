@@ -1,0 +1,1328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getda",
+				"getDate()	Date"
+			],
+			[
+				"mont",
+				"month〔variable〕"
+			],
+			[
+				"get",
+				"getMonth〔function〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"unix",
+				"unixTimeStamp〔function〕"
+			],
+			[
+				"process",
+				"process.cwd"
+			],
+			[
+				"req",
+				"req〔argument〕"
+			],
+			[
+				"to",
+				"toFixed〔function〕"
+			],
+			[
+				"firs",
+				"firstArg〔variable〕"
+			],
+			[
+				"mon",
+				"mongo"
+			],
+			[
+				"docu",
+				"documents〔argument〕"
+			],
+			[
+				"data",
+				"data	.data()"
+			],
+			[
+				"arg",
+				"argv[3"
+			],
+			[
+				"crypto",
+				"crypto.createHash"
+			],
+			[
+				"sty",
+				"styleFile〔variable〕"
+			],
+			[
+				"c",
+				"c	color"
+			],
+			[
+				"bod",
+				"bodyparser"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"path",
+				"pathname	URLUtils"
+			],
+			[
+				"getm",
+				"getMinutes〔function〕"
+			],
+			[
+				"cre",
+				"createServer"
+			],
+			[
+				"crearead",
+				"fs.createReadStream"
+			],
+			[
+				"Getm",
+				"getMinutes()	Date"
+			],
+			[
+				"listen",
+				"server.listen"
+			],
+			[
+				"socket",
+				"socket.end"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"http",
+				"http.request"
+			],
+			[
+				"set",
+				"setEncoding"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"response",
+				"response.addTrailers"
+			],
+			[
+				"processar",
+				"process.argv"
+			],
+			[
+				"call",
+				"callback〔argument〕"
+			],
+			[
+				"cal",
+				"callback〔argument〕"
+			],
+			[
+				"modeu",
+				"moduleexports	module.exports"
+			],
+			[
+				"ext",
+				"extIndex〔variable〕"
+			],
+			[
+				"lasti",
+				"lastIndexOf(${0:searchValue})	String"
+			],
+			[
+				"list",
+				"list〔argument〕"
+			],
+			[
+				"proc",
+				"process"
+			],
+			[
+				"proces",
+				"process.argv"
+			],
+			[
+				"readF",
+				"fs.readFile"
+			],
+			[
+				"procesa",
+				"process.argv"
+			],
+			[
+				"server",
+				"http.createServer"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"secon",
+				"secMonth〔variable〕"
+			],
+			[
+				"yea",
+				"yearsDiff〔variable〕"
+			],
+			[
+				"sec",
+				"secondDate〔variable〕"
+			],
+			[
+				"fixed",
+				"fixedArr〔variable〕"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"replace",
+				"replace(${0:regexp|substr}, 'string')	String"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"nee",
+				"neededNominals〔variable〕"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"curr",
+				"currentIndex〔argument〕"
+			],
+			[
+				"delete",
+				"delete(${0:Object})	Object"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"mr",
+				"mr	margin-right"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"freec",
+				"freecodecamp"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"the",
+				"theEnd〔function〕"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"cle",
+				"clearTimeout〔function〕"
+			],
+			[
+				"clea",
+				"clearTimeout〔function〕"
+			],
+			[
+				"lev",
+				"levelArr〔variable〕"
+			],
+			[
+				"leve",
+				"level〔variable〕"
+			],
+			[
+				"reset",
+				"resetGame"
+			],
+			[
+				"str",
+				"strict"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"thi",
+				"this	$(this)"
+			],
+			[
+				"ro",
+				"round"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"lig",
+				"lighten	lighten()"
+			],
+			[
+				"simon",
+				"simon__panel__screen"
+			],
+			[
+				"si",
+				"simon__panel__control"
+			],
+			[
+				"dtb",
+				"d:tb	display:table"
+			],
+			[
+				"bxs",
+				"bxsh+	box-shadow+"
+			],
+			[
+				"med",
+				"horses-medium-crop.jpg	w:1000 h:563"
+			],
+			[
+				"ros",
+				"rosella-1600_large_2x"
+			],
+			[
+				"64",
+				"640px"
+			],
+			[
+				"jq",
+				"jquery	(index.html)"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"resu",
+				"resultTable"
+			],
+			[
+				"com",
+				"compTurn"
+			],
+			[
+				"che",
+				"checkWinner"
+			],
+			[
+				"clone",
+				"cloneMatrix"
+			],
+			[
+				"chec",
+				"checkWinner"
+			],
+			[
+				"check",
+				"checkVertical"
+			],
+			[
+				"sele",
+				"selectPlayer"
+			],
+			[
+				"bu",
+				"bs3-button	bs3-button"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"cdn",
+				"cdn	Bootstrap CSS"
+			],
+			[
+				"random",
+				"randomSearch"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"ts",
+				"tsh+	text-shadow+"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"fad",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"sli",
+				"slideUp	.slideUp()"
+			],
+			[
+				"sh",
+				"show	Event"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"pos",
+				"position	(main.scss)"
+			],
+			[
+				"fs",
+				"fs:n	font-style:normal"
+			],
+			[
+				"sc",
+				"scrollTop〔function〕"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"app",
+				"append	.append()"
+			],
+			[
+				"sl",
+				"slideUp〔function〕"
+			],
+			[
+				"sea",
+				"searchBar"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"dt",
+				"d:tbc	display:table-cell"
+			],
+			[
+				"ve",
+				"vendors/"
+			],
+			[
+				"pr",
+				"pr	padding-right"
+			],
+			[
+				"conta",
+				"contain	(main.js)"
+			],
+			[
+				"no",
+				"noise.png	w:315 h:315"
+			],
+			[
+				"loa",
+				"loadbackground.jpg	w:1920 h:1080"
+			],
+			[
+				"ima",
+				"images/"
+			],
+			[
+				"rel",
+				"relative	(load-animations.scss)"
+			],
+			[
+				"ab",
+				"absolute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"tota",
+				"View: Toggle Tabs"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"radius",
+				"Snippet: border-radius"
+			],
+			[
+				"style",
+				"Snippet: font-style"
+			],
+			[
+				"bordertop",
+				"Snippet: border-top-right-image"
+			],
+			[
+				"borderradius",
+				"Snippet: border-top-left-radius"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"bordertople",
+				"Snippet: border-top-left-radius"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"borderbottom",
+				"Snippet: border-bottom+"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"mard",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"docb",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"setsy php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"jshin",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jsh",
+				"JSHint: Set Keyboard Shortcuts"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"sa",
+				"File: Save All"
+			],
+			[
+				"packal",
+				"Package Control: List Packages"
+			],
+			[
+				"t",
+				"View: Toggle Tabs"
+			],
+			[
+				"radiu",
+				"Snippet: border-radius"
+			],
+			[
+				"tog",
+				"View: Toggle Tabs"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"docu",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"toggle me",
+				"View: Toggle Menu"
+			],
+			[
+				"media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"textsi",
+				"Snippet: text-height:font-size"
+			],
+			[
+				"posi",
+				"Snippet: position:absolute"
+			],
+			[
+				"border-box",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"box-",
+				"Snippet: box-sizing"
+			],
+			[
+				"bootstra",
+				"Snippet: Bootstrap CSS"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"border-ra",
+				"Snippet: border-radius"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tabs ",
+				"View: Toggle Tabs"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"build s",
+				"Build: New Build System"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"node",
+				"Nodejs::Build Completions"
+			],
+			[
+				"packa li",
+				"Package Control: List Packages"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"fuzzy",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"fuz",
+				"FuzzyFilePath: Show info"
+			],
+			[
+				"fuzy",
+				"FuzzyFilePath: Set project directory"
+			],
+			[
+				"previ	",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lk/Develop/web/url-shortener"
+	],
+	"file_history":
+	[
+		"/home/lk/Develop/web/timestamp_m/.gitignore",
+		"/home/lk/Develop/stitches.txt",
+		"/home/lk/Develop/web/node-js-getting-started/index.js",
+		"/home/lk/Develop/web/node-js-getting-started/package.json",
+		"/home/lk/Develop/web/node-js-getting-started/.git/config",
+		"/home/lk/Develop/web/voteApp/server.js",
+		"/home/lk/Develop/web/node-js-getting-started/.gitignore",
+		"/home/lk/Develop/web/voteApp/package.json",
+		"/home/lk/Develop/web/voteApp/app/controllers/clickHandler.server.js",
+		"/home/lk/Develop/web/voteApp/app/controllers/userController.client.js",
+		"/home/lk/Develop/web/voteApp/public/profile.html",
+		"/home/lk/Develop/web/voteApp/app/config/passport.js",
+		"/home/lk/Develop/web/voteApp/app/routes/index.js",
+		"/home/lk/Develop/web/voteApp/public/index.html",
+		"/home/lk/Develop/web/voteApp/app/controllers/clickController.client.js",
+		"/home/lk/Develop/web/voteApp/app/models/users.js",
+		"/home/lk/Develop/web/voteApp/app/common/ajax-functions.js",
+		"/home/lk/Develop/web/voteApp/.env",
+		"/home/lk/Develop/web/voteApp/app/config/auth.js",
+		"/home/lk/Develop/web/learn_mongo/p1.js",
+		"/home/lk/Develop/web/voteApp/node_modules/mongoose/website.js",
+		"/home/lk/Develop/web/voteApp/node_modules/mongodb/package.json",
+		"/home/lk/Develop/web/voteApp/.gitignore",
+		"/home/lk/Develop/web/voteApp/README.md",
+		"/home/lk/Develop/web/learn_mongo/p2.js",
+		"/home/lk/Develop/web/learn_mongo/output.json",
+		"/home/lk/Develop/web/learn_mongo/p7.js",
+		"/home/lk/Dokumenty/dk_fb.txt",
+		"/home/lk/Develop/web/learn_mongo/p5.js",
+		"/home/lk/Develop/web/learn_mongo/p4.js",
+		"/home/lk/Develop/web/learn_mongo/p3.js",
+		"/home/lk/Develop/web/learn_mongo/p6.js",
+		"/home/lk/Dokumenty/settings.cpt",
+		"/home/lk/Develop/web/learn_mongo/parrots.js",
+		"/home/lk/Develop/web/learn_mongo/.eslintrc",
+		"/home/lk/Develop/web/learn_mongo/data/learnyoumongo.0",
+		"/home/lk/Develop/web/learn_express/templates/index.jade",
+		"/home/lk/Develop/web/learn_express/public/index.html",
+		"/home/lk/Develop/web/learn_express/p1.js",
+		"/home/lk/Develop/web/learn_express/p2.js",
+		"/home/lk/Develop/web/learn_express/p3.js",
+		"/home/lk/Develop/web/learn_express/p4.js",
+		"/home/lk/Develop/web/learn_express/p5.js",
+		"/home/lk/Develop/web/learn_express/p6.js",
+		"/home/lk/Develop/web/learn_express/p7.js",
+		"/home/lk/Develop/web/learn_express/public/main.styl",
+		"/home/lk/Develop/web/learn_express/p8.js",
+		"/home/lk/Develop/web/learn_express/public/main.css",
+		"/home/lk/Develop/web/learn_express/templates/main.styl",
+		"/home/lk/Develop/web/learn_node/p12.js",
+		"/home/lk/Develop/web/learn_node/p11.js",
+		"/home/lk/Develop/web/learn_node/p10.js",
+		"/home/lk/Develop/web/learn_node/p9.js",
+		"/home/lk/Develop/web/learn_node/p2.js",
+		"/home/lk/Develop/web/learn_node/responseJSON.json",
+		"/home/lk/Develop/web/learn_node/httpClientJSON.json",
+		"/home/lk/Develop/web/learn_node/p8-v2.js",
+		"/home/lk/Develop/web/learn_node/p7.js",
+		"/home/lk/Develop/web/learn_node/p6.js",
+		"/home/lk/Develop/web/learn_node/p5-v2.js",
+		"/home/lk/Develop/web/learn_node/p3.js",
+		"/home/lk/Develop/web/learn_node/fun-v2.js",
+		"/home/lk/Develop/web/learn_node/p4.js",
+		"/home/lk/Develop/web/learn_node/p5.js",
+		"/home/lk/Develop/web/learn_node/fun.js",
+		"/home/lk/Pobrane/node/node-v4.2.4-linux-x64/README.md",
+		"/home/lk/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/lk/Develop/web/learn_node/p1.js",
+		"/home/lk/Develop/freecodecamp/advancedAlgorithmsFccPart2.js",
+		"/home/lk/Develop/freecodecamp/upperAndAdvancedAlgorithms.js",
+		"/home/lk/Dokumenty/00002.vcf",
+		"/media/lk/6060-1AF4/Z lapka/Nowy dokument tekstowy.txt",
+		"/home/lk/Develop/freecodecamp/upperAndAdvancedAlgorithm.js",
+		"/home/lk/Develop/web/portfolio/public/js/index.js",
+		"/home/lk/Develop/codepen/portfolio_webpage/portfolio.js",
+		"/home/lk/Develop/codepen/portfolio_webpage/portfolio.css",
+		"/home/lk/Develop/web/portfolio/.eslintrc",
+		"/home/lk/Develop/web/portfolio/Guardfile",
+		"/home/lk/Develop/web/portfolio/public/index.html",
+		"/home/lk/Develop/web/portfolio/Gruntfile.js",
+		"/home/lk/Develop/web/portfolio/README.md",
+		"/home/lk/Develop/web/portfolio/.jshintrc",
+		"/home/lk/Develop/web/portfolio/src/jquery.portfolio.js",
+		"/home/lk/Develop/web/portfolio/portfolio.jquery.json",
+		"/home/lk/Develop/web/portfolio/libs/jquery/jquery.js",
+		"/home/lk/Develop/web/portfolio/package.json",
+		"/home/lk/Develop/web/portfolio/dist/jquery.portfolio.min.js",
+		"/home/lk/Develop/web/portfolio/dist/jquery.portfolio.js",
+		"/home/lk/Develop/web/portfolio/libs/jquery-loader.js",
+		"/home/lk/Develop/web/portfolio/CONTRIBUTING.md",
+		"/home/lk/Develop/web/portfolio/LICENSE-MIT",
+		"/home/lk/.grunt-init/jquery/root/Gruntfile.js",
+		"/home/lk/.grunt-init/jquery/template.js",
+		"/home/lk/.grunt-init/jquery/rename.json",
+		"/home/lk/Develop/web/simon-game/public/assets/css/index.css",
+		"/home/lk/Develop/web/simon-game/public/index.html",
+		"/home/lk/Develop/web/simon-game/public/assets/css/index.scss",
+		"/home/lk/Develop/web/simon-game/public/assets/js/index.js",
+		"/home/lk/Develop/web/portfolio/libs/qunit/qunit.js",
+		"/home/lk/Develop/web/portfolio/test/portfolio_test.js",
+		"/home/lk/.grunt-init/jquery/root/libs/jquery/jquery.js",
+		"/home/lk/.grunt-init/jquery/root/README.md",
+		"/home/lk/.grunt-init/jquery/README.md",
+		"/home/lk/Develop/web/simon-game/.eslintrc",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/costam.txt",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/angielski list.txt",
+		"/home/lk/Develop/web/simon-game/Gruntfile.js",
+		"/home/lk/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-3-Solution/index.html",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-3-Solution/package.json",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-3-Solution/Gruntfile.js",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-3-Solution/css/main.css",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-3-Start/index.html",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/server.py",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-3-Start/Gruntfile.js",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/node_modules/grunt-contrib-jshint/node_modules/jshint/src/lex.js",
+		"/home/lk/Pobrane/convert.sh",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/npm-debug.log",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/node_modules/grunt-contrib-jshint/package.json",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/Project1.sublime-project",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/Gruntfile.js",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/package.json",
+		"/home/lk/Develop/udacity/responsive images/Project-Part-1-Start/README.md",
+		"/home/lk/Develop/udacity/rwd/pattern-mostly-fluid-quiz-blankcss.html",
+		"/home/lk/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/lk/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/lk/.config/sublime-text-3/Installed Packages/tmp/all_views_completions.py",
+		"/home/lk/.config/sublime-text-3/Installed Packages/tmp/package-metadata.json"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getDay",
+			"master",
+			" : ",
+			"u",
+			"string",
+			"dotenv",
+			"docs",
+			"d.",
+			"d",
+			"\" \"",
+			"currDate",
+			"data",
+			"req3.res.finished",
+			"req2.res.finished",
+			"req1.res.finished",
+			"req1",
+			"finished",
+			"var",
+			"1",
+			"assignDataFunc",
+			"res",
+			"data",
+			"req",
+			"on",
+			"str",
+			"req3",
+			"data",
+			"url1",
+			"printIfAllDone",
+			"str",
+			"insert",
+			"console",
+			"1",
+			"0",
+			"filtred",
+			"tmp",
+			"index",
+			"elem",
+			"slice",
+			"i ",
+			"i",
+			"arr",
+			"i",
+			"aska",
+			"totalDuplicates",
+			"times",
+			"arr1",
+			"neededdenominations",
+			"nominal",
+			"neededNominals*nominal[cid[i][0]]",
+			"neededNominals*nominal[cid[i][0]];",
+			"requestNominals",
+			"request",
+			"diff",
+			"0",
+			"NaN",
+			");\n",
+			"firstAndLast",
+			"fullName",
+			"split",
+			"splitAndAssign",
+			"split",
+			"firstAndLast",
+			"setFullName",
+			"firstAndLast",
+			"split",
+			"var",
+			"fullName",
+			"fixed",
+			"document",
+			"window",
+			"d",
+			"128",
+			"#ecf0f1;",
+			"color:",
+			"D",
+			"pen.io/lukaskwkw",
+			"/full/",
+			"/pen/",
+			"editors",
+			"ail\">",
+			"bnail\">",
+			"nail\">",
+			"bnail\">",
+			"\">\n",
+			">div>",
+			"<div class=\"thumbnail\">",
+			"</div></a>",
+			"</a>",
+			"<div class=\"thumbnail\">",
+			"</img>",
+			"http:",
+			"<h4>",
+			"					<!-- dając img-responsive rozjezdża się przy mniejszych rozdzielczościach czasem -->  ",
+			"BS3",
+			"bs3",
+			"scss",
+			"background-color:",
+			"socialmedia",
+			"color",
+			"/public/im",
+			"class=\"\"",
+			"src=\"/public/",
+			"http://lorempixel.com",
+			"lorempixel.com/",
+			"jshint",
+			"theEnd",
+			"20",
+			"clearTimeout",
+			"play",
+			"Interval",
+			"interval",
+			"removeClass",
+			"toggleClass(\"toggle\");",
+			"toggle",
+			"inter",
+			"zeroGame",
+			"console.log",
+			"console",
+			"resetGame",
+			"strict",
+			"removeClass(\"highlight\")",
+			"2000",
+			"delay/2",
+			"delay/",
+			"$(\"#\"+space).removeClass(",
+			"delay",
+			"$(\"#\"+space).removeClass("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			")",
+			"=\"\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 23.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "url-shortener.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Develop/web/simon-game/simon-game.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}

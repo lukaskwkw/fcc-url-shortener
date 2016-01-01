@@ -1,30 +1,38 @@
-<!DOCTYPE html>
 
-<html>
+<!doctype html>
+<html lang="en">
 
-   <head>
-      <title>Clementine.js - The elegant and lightweight full-stack boilerplate.</title>
-      <link href="http://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
-      <link href="/public/css/main.css" rel="stylesheet" type="text/css">  
-   </head>
+<head>
+  <title>shurli - The URL Shortener</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
 
-   <body>
-      <div class="container">
-         <img src="/public/img/clementine_150.png" />
-         <br />
-         <p class="clementine-text">Clementine.js</p>
-      </div>
-
-      <div class="container">
-         <p>You have clicked the button <span id="click-nbr"></span> times.</p>   
-         <br />
-         <div class="btn-container">
-            <button type="submit" class="btn btn-add">CLICK ME!</button>
-            <button class="btn btn-delete">RESET</button>
-         </div>
-      </div>
-
-      <script type="text/javascript" src="/controllers/clickController.client.js"></script>   
-   </body>
+<body>
+  <div class="container">
+    <h1 class="header">
+      API Basejump: URL Shortener
+    </h1>
+    <blockquote>
+      User stories:
+      <ul><li>I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.</ul>
+      <ul><li>When I visit that shortened URL, it will redirect me to my original link.</ul>
+    </blockquote>
+    <h3>Example creation usage:</h3>
+    <code>https://localhost:3000/new/https://www.google.com</code>
+    <br>
+    <code>https://localhost:3000/new/http://freecodecamp.com/news</code>
+    <h3>Example creation output:</h3>
+    <code>
+      {
+        "original_url": "http://freecodecamp.com/news",
+        "short_url": "https://localhost:3000/4"
+      }
+    </code>
+    <h3>Usage:</h3>
+    <code>https://localhost:3000/4</code>
+    <h3>Will redirect to:</h3>
+    <code>http://freecodecamp.com/news</code>
+  </div>
+</body>
 
 </html>
