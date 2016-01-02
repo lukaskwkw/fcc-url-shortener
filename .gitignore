@@ -2,3 +2,4 @@ node_modules/
 public/lib/
 data/
 .eslintrc
+.sublime-project
