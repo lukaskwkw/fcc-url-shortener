@@ -6,7 +6,9 @@ var routes = require('./app/routes/index.js');
 
 var app = express();
 
-mongo.connect('mongodb://localhost:27017/urldb', function (err, db) {
+var url = 'mongodb://'+process.env.dbuser+':'+process.end.dbpassword+'@ds037005.mongolab.com:37005/mongolkw';
+// mongo.connect('mongodb://localhost:27017/urldb', function (err, db) {
+mongo.connect(url, function (err, db) {
 
    if (err) {
       throw new Error('Database failed to connect!');
