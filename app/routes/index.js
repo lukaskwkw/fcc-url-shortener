@@ -23,7 +23,8 @@ CHECK
 */
 
 function  shortRedirectHandler (short_code,res,db) {
-	
+		if (/^[a-z0-9]{1,3}$/i.test(short_code)===false)
+			return res.end('not correct short_code');
 		var links = db.collection('links');
 		if (6>Number(short_code))
 		{

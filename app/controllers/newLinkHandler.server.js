@@ -1,4 +1,4 @@
-var app_url = process.env.APP_URL  || "localhost:3000/";
+var app_url = process.env.APP_URL  || "localhost:5000/";
 var re_weburl = require('../../regex-weburl.js');
 var http = require("http");
 var url = require("url");
