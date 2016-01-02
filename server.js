@@ -3,10 +3,11 @@
 var express = require('express');
 var mongo = require('mongodb');
 var routes = require('./app/routes/index.js');
-
+var dotenv = require('dotenv');
 var app = express();
 
-var url = 'mongodb://'+process.env.dbuser+':'+process.end.dbpassword+'@ds037005.mongolab.com:37005/mongolkw';
+dotenv.load();
+var url = 'mongodb://'+process.env.dbuser+':'+process.env.dbpassword+'@ds037005.mongolab.com:37005/mongolkw';
 // mongo.connect('mongodb://localhost:27017/urldb', function (err, db) {
 mongo.connect(url, function (err, db) {
 

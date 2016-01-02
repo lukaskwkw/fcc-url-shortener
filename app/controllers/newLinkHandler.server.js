@@ -11,11 +11,14 @@ var newLinkHandler = function (originalUrl,link,localRes,db){
 	
 	function queryDb () {
 		counter.findOne({}, function (err, resultCheckIfCounterExists) {
-			if (err) throw err;
-
+			if (err) { 
+				console.log('resultCheckIfCounterExists');
+				throw err;
+			}
 			if (resultCheckIfCounterExists){
+				console.log('resultCheckIfCounterExists:pass results: ',resultCheckIfCounterExists);
 
-				if (resultCheckIfCounterExists.counter>500) {
+				if (+resultCheckIfCounterExists.counter>500) {
 					console.log("exceed db limit db.links.drop() counter drop() redirecting...");
 					counter.drop();
 					links.drop();
@@ -24,12 +27,18 @@ var newLinkHandler = function (originalUrl,link,localRes,db){
 				};
 
 				links.findOne({'orginal_url' : link},function  (err,resultCheckIfUrlExists) {
-					if (err) throw err;
+					if (err){ 
+						console.log('Err: resultCheckIfUrlExists',err);
+						throw err;
+					}
 
 					if (!resultCheckIfUrlExists){ // there is no url in database so lets create one
 
-						counter.findAndModify({'query' : {}}, {'_id' : 1},{ $inc: { 'counter': 1 }}, {new : true}, function (err, resultFindAndModify) {
-							if (err) throw err;
+						counter.findAndModify({}, {'_id' : 1},{ $inc: { 'counter': 1 }}, {new : true}, function (err, resultFindAndModify) {
+							if (err) {
+								console.log('Err: resultFindAndModify',err);
+								throw err;
+							}
 							var shortedUrl = resultFindAndModify.value.counter.toString(36);
 							links.insert({'orginal_url' : link, 'short_url' : shortedUrl},function  (err,result) {
 								if (err) throw err;
@@ -42,12 +51,15 @@ var newLinkHandler = function (originalUrl,link,localRes,db){
 						localRes.end(JSON.stringify({original_url : link, short_url: app_url + resultCheckIfUrlExists.short_url}));
 					}
 				});
-			}	 
-			else{
+}	 
+else{
 				// jesli nie ma licznika to go stworz i usun kolekcje linkow
 				// first 5 are reserved
 				counter.insert({'counter':6}, function  (err,resultInsert1stCounter) {
-					if (err) throw err;
+					if (err) {
+						console.log("resultInsert1stCounter");
+						throw err;
+					}
 					links.drop();
 					var shortedUrl = (6).toString(36);
 					links.insert({'orginal_url' : link, 'short_url' : shortedUrl},function  (err,result) {
